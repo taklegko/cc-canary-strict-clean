@@ -3,5 +3,5 @@
   "version": "1.0.0",
   "description": "Clean strict-mode canary plugin package.",
   "repository": "https://github.com/taklegko/cc-canary-strict-clean",
-  "skills": [{ "name": "strict-clean-canary", "path": "skills/strict-clean-canary/SKILL.md" }]
+  "skills": "./skills/"
 }
